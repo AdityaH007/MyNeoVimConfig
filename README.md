@@ -21,7 +21,7 @@ This configuration uses [Packer](https://github.com/wbthomason/packer.nvim) as t
 
 5. **Install plugins:**
 
-Open Neovim and run `:PlugInstall` to install the plugins specified in the configuration file.
+Open Neovim and run `:PackerSync` to install the plugins specified in the configuration file.
 
 6. **Additional setup (if required):**
 
@@ -31,10 +31,6 @@ Some plugins might require additional setup or dependencies. Please refer to the
 
 - **General:**
 - `<leader>` is mapped to the space bar (`<Space>`).
-- `<C-n>` toggles NERDTree.
-- `<C-t>` opens a new tab.
-- `<C-q>` closes the current tab.
-
 - **Editing:**
 - `<leader>w` saves the current buffer.
 - `<leader>q` closes the current buffer.
