@@ -17,7 +17,7 @@ If you haven't already, install Neovim. You can find installation instructions [
 
 4. **Install plugin manager (if not already installed):**
 
-This configuration uses [vim-plug](https://github.com/junegunn/vim-plug) as the plugin manager. Follow the instructions on the GitHub page to install it.
+This configuration uses [Packer](https://github.com/wbthomason/packer.nvim) as the plugin manager. Follow the instructions on the GitHub page to install it.
 
 5. **Install plugins:**
 
